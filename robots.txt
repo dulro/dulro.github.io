@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dulro.github.io/yGH/sitemap.yGH.gz
